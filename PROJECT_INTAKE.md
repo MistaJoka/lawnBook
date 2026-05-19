@@ -7,8 +7,8 @@
 - What is the app in one sentence? AI mobile app for hard working landscapers.
 - Who is the main user? solo landscapers with small operations and businesses. 
 - What problem does it solve? saves time and confusion. gaining premium features as lower costs
-- What does the user do before this app exists? manual, switches between providers. 
-- What does the user do after this app exists? Save time, earn more, ease workflows. 
+- What does the user do before this app exists? manual outreach and invoicing, switches between providers. 
+- What does the user do after this app exists? Save time, earn more money and leads, ease workflows. 
 
 ### Advanced Questions
 - What market gap does this app target? Small business owners that don't want to spend what the top providers are asking for their platforms. 
@@ -38,38 +38,38 @@
 ### Beginner Questions
 - What is the smallest useful version? able to be easily installed and used on the s26 ultra.
 - What are the top 3 features? route optimzation, customer follow ups, and invoice status. 
-- What should be built first? The app shell. 
-- What does “done” mean for Phase 1?
+- What should be built first? stable code and tests for QA, FMAE, and regression. logged for reninforfed learnined with AI and building resilience by learned why bugs happen to fix the originating issue. 
+- What does “done” mean for Phase 1? fully polished MVP. ready for me to perform my manual setup and then launch.
 
 ### Advanced Questions
 - What must be excluded from Phase 1?
-- What assumptions need validation?
-- What feature creates the highest value fastest?
-- What feature proves this can become a real service?
+- What assumptions need validation? confirmation on user deleting or updating data. 
+- What feature creates the highest value fastest? organizing customers and jobs with the added perk of route optimization to avoid long drives. gather new leads wasilt with annintake form via website or QR scan. 
+- What feature proves this can become a real service? able to fully organize work and collect money with ease just from the app. payment collect can still be vis zelle and documented by the user to update the invoice status.
 
 ## 4. Business Angle
 
 ### Beginner Questions
-- Is this personal, portfolio, client work, or future SaaS?
-- Who would pay?
-- What pain saves money or time?
-- What would the first offer be?
+- Is this personal, portfolio, client work, or future SaaS? portfolio and client work. this is a learning and potentially income generating Opportunity for me. i can showcase my technical skill and AI capabilities if this is successful.
+- Who would pay? small and solo landscaping businesses.
+- What pain saves money or time? having to pay a big price to the top competitors like jobber and yardbook.
+- What would the first offer be? user can use the app for free for the first year. 
 
 ### Advanced Questions
-- What pricing model could work later?
-- What makes this hard for competitors to copy?
+- What pricing model could work later? layers of features like a tiered system separate premium and additional features.
+- What makes this hard for competitors to copy? they are too big and want a bunch of money. i just need a slice and i kight be able to pull this off and offer and support custom business applications.
 - What operational service could be bundled with the app?
-- What manual process can become a paid managed service?
+- What manual process can become a paid managed service? full AI operator that is like an assistant to the user.
 
 ## 5. AI Fill-In Permission
 
 Use this section to tell the AI where it may infer.
 
-- AI may infer missing beginner details: Yes / No
-- AI may infer technical architecture: Yes / No
-- AI may infer UI details: Yes / No
-- AI may infer database fields: Yes / No
-- AI must ask before making product changes: Yes / No
+- AI may infer missing beginner details: Yes
+- AI may infer technical architecture: Yes
+- AI may infer UI details: Yes
+- AI may infer database fields: Yes
+- AI must ask before making product changes: No
 
 ## Notes / Brain Dump
 
