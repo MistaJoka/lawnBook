@@ -73,12 +73,12 @@ As a [user], I want to [action], so that [benefit].
 - What are we intentionally not building? Generic app flows that are boring and bring no joy to completing. 
 - What platforms are excluded?
 - What integrations are excluded?
-- What advanced automation is excluded?
+- What advanced automation is excluded? anything with invoicing or sending communications.
 
 ## 8. Risks
 
 ### Questions
-- What could block development?
+- What could block development? my knowledge and resources.
 - What could confuse users? Non descriptive icons or fields. confusing user flow.
 - What could cause data loss? If the offline data does not get succesffuly syncd to the data base when online. 
 - What could make the app too expensive? User data needed for customer, jobs, and historical data. 
